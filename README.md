@@ -30,15 +30,15 @@ It is designed to **practice Python basics**, **track learning progress**, and *
 ## 📅 Module Progress
 
 | #  | Topic                  | Status    | Folder/Link |
-|----|------------------------|----------|---------|
-| 1  | Getting Started         | ✅ Done  | [day01](https://github.com/Ilya-Nikzad/code-trip-course-1-p4e-control-flow/tree/main/module01<br/>) |
-| 2  | Variables & Expressions |⏳ In Progress | [day02] |
-| 3  |                        | ⏳ In Progress |         |
-| 4  |                        | ⏳ In Progress |         |
-| 5  |                        | ⏳ In Progress |         |
-| 6  |                        | ⏳ In Progress |         |
-| 7  |                        | ⏳ In Progress |         |
-| 8  |                        | ⏳ In Progress |         |
+|----|------------------------|----------|--|
+| 1  | Getting Started         | ✅ Done  | [module01](https://github.com/Ilya-Nikzad/code-trip-course-1-p4e-control-flow/tree/main/module01<br/>) |
+| 2  | Variables & Expressions |⏳ In Progress |  |
+| 3  |                        | ⏳ In Progress |  |
+| 4  |                        | ⏳ In Progress |  |
+| 5  |                        | ⏳ In Progress |  |
+| 6  |                        | ⏳ In Progress |  |
+| 7  |                        | ⏳ In Progress |  |
+| 8  |                        | ⏳ In Progress |  |
 
 ---
 
