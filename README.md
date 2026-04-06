@@ -29,16 +29,16 @@ It is designed to **practice Python basics**, **track learning progress**, and *
 
 ## 📅 Module Progress
 
-| # | Topic                  | Status    | Folder/Link             |
-|---|------------------------|----------|-------------------------|
-| 1 | Getting Started         | ✅ Done  | [module01](.\module01/) |
-| 2 | Variables & Expressions |⏳ In Progress |                         |
-| 3 |                        | ⏳ In Progress |                         |
-| 4 |                        | ⏳ In Progress |                         |
-| 5 |                        | ⏳ In Progress |                         |
-| 6 |                        | ⏳ In Progress |                         |
-| 7 |                        | ⏳ In Progress |                         |
-| 8 |                        | ⏳ In Progress |                         |
+| # | Topic                  | Status    | Folder/Link  |
+|---|------------------------|----------|--------------|
+| 1 | Getting Started         | ✅ Done  | [module01](./module01/) |
+| 2 | Variables & Expressions |⏳ In Progress |              |
+| 3 |                        | ⏳ In Progress |              |
+| 4 |                        | ⏳ In Progress |              |
+| 5 |                        | ⏳ In Progress |              |
+| 6 |                        | ⏳ In Progress |              |
+| 7 |                        | ⏳ In Progress |              |
+| 8 |                        | ⏳ In Progress |              |
 
 ---
 
