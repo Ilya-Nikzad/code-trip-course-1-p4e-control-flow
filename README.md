@@ -33,7 +33,7 @@ It is designed to **practice Python basics**, **track learning progress**, and *
 |---|------------------------|---------------|-------------------------|
 | 1 | Getting Started         | ✅ Done        | [module01](./module01/) |
 | 2 | Variables & Expressions | ✅ Done        | [module02](./module02/) |
-| 3 |                        | ⏳ In Progress |                         |
+| 3 |                        | ✅ Done        | [module03](./module03/) |
 | 4 |                        | ⏳ In Progress |                         |
 | 5 |                        | ⏳ In Progress |                         |
 | 6 |                        | ⏳ In Progress |                         |
